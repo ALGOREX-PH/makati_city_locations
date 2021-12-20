@@ -1,0 +1,24 @@
+{
+  "name": "makati_city_locations",
+  "version": "1.0.0",
+  "description": "This npm package contains all Barangay Details and Streets within Makati City",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TIGERTIDES/makati_city_locations.git"
+  },
+  "keywords": [
+    "makati",
+    "city",
+    "locations"
+  ],
+  "author": "Danielle Bagaforo Meer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TIGERTIDES/makati_city_locations/issues"
+  },
+  "homepage": "https://github.com/TIGERTIDES/makati_city_locations#readme"
+}
