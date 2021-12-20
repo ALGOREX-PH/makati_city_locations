@@ -1,0 +1,266 @@
+[
+    {
+        "Barangay": "Bangkal",
+        "population": "17,576",
+        "zip_code": 1233,
+        "Area": 0.8945,
+        "Population_Density": 19648,
+        "Annual_Population_Change": -4.3
+    },
+    {
+        "Barangay": "Bel-Air",
+        "population": "36,007",
+        "zip_code": 1209,
+        "Area": 1.716,
+        "Population_Density": 20983,
+        "Annual_Population_Change": 9.2
+    },
+    {
+        "Barangay": "Carmona",
+        "population": "2,745",
+        "zip_code": 1207,
+        "Area": 0.3669,
+        "Population_Density": 7482,
+        "Annual_Population_Change": -2.6
+    },
+    {
+        "Barangay": "Cembo",
+        "population": "25,049",
+        "zip_code": 1214,
+        "Area": 0.4325,
+        "Population_Density": 57921,
+        "Annual_Population_Change": -0.95
+    },
+    {
+        "Barangay": "Comembo",
+        "population": "15,805",
+        "zip_code": 1217,
+        "Area": 0.3077,
+        "Population_Density": 51362,
+        "Annual_Population_Change": -1.3
+    },
+    {
+        "Barangay": "DasmariÃ±as",
+        "population": "4,160",
+        "zip_code": 1221,
+        "Area": 1.96,
+        "Population_Density": 2122,
+        "Annual_Population_Change": -6
+    },
+    {
+        "Barangay": "East Rembo",
+        "population": "26,448",
+        "zip_code": 1216,
+        "Area": 0.5385,
+        "Population_Density": 49118,
+        "Annual_Population_Change": -1.3
+    },
+    {
+        "Barangay": "Forbes Park",
+        "population": "3,715",
+        "zip_code": 1219,
+        "Area": 2.478,
+        "Population_Density": 1499,
+        "Annual_Population_Change": 10
+    },
+    {
+        "Barangay": "Guadalupe Nuevo",
+        "population": "20,533",
+        "zip_code": 1212,
+        "Area": 0.5773,
+        "Population_Density": 35567,
+        "Annual_Population_Change": 2.4
+    },
+    {
+        "Barangay": "Guadalupe Viejo",
+        "population": "12,900",
+        "zip_code": 1211,
+        "Area": 0.5551,
+        "Population_Density": 23240,
+        "Annual_Population_Change": -0.82
+    },
+    {
+        "Barangay": "Kasilawan",
+        "population": "4,827",
+        "zip_code": 1206,
+        "Area": 0.1015,
+        "Population_Density": 47561,
+        "Annual_Population_Change": -4.1
+    },
+    {
+        "Barangay": "La Paz",
+        "population": "6,346",
+        "zip_code": 1204,
+        "Area": 0.2501,
+        "Population_Density": 25371,
+        "Annual_Population_Change": -3.1
+    },
+    {
+        "Barangay": "Magallanes",
+        "population": "5,267",
+        "zip_code": 1232,
+        "Area": 1.222,
+        "Population_Density": 4310,
+        "Annual_Population_Change": -1.6
+    },
+    {
+        "Barangay": "Olympia",
+        "population": "18,654",
+        "zip_code": 1207,
+        "Area": 0.4584,
+        "Population_Density": 40693,
+        "Annual_Population_Change": -1.7
+    },
+    {
+        "Barangay": "Palanan",
+        "population": "11,623",
+        "zip_code": 1235,
+        "Area": 0.6435,
+        "Population_Density": 18062,
+        "Annual_Population_Change": -4
+    },
+    {
+        "Barangay": "Pembo",
+        "population": "44,506",
+        "zip_code": 1218,
+        "Area": 0.7274,
+        "Population_Density": 61188,
+        "Annual_Population_Change": -1.7
+    },
+    {
+        "Barangay": "Pinagkaisahan",
+        "population": "4,710",
+        "zip_code": 1213,
+        "Area": 0.1556,
+        "Population_Density": 30272,
+        "Annual_Population_Change": -4.1
+    },
+    {
+        "Barangay": "Pio Del Pilar",
+        "population": "50,722",
+        "zip_code": 1230,
+        "Area": 0.9168,
+        "Population_Density": 55326,
+        "Annual_Population_Change": 11
+    },
+    {
+        "Barangay": "Pitogo",
+        "population": "14,654",
+        "zip_code": 1213,
+        "Area": 0.172,
+        "Population_Density": 85193,
+        "Annual_Population_Change": 0.38
+    },
+    {
+        "Barangay": "Poblacion",
+        "population": "16,706",
+        "zip_code": 1210,
+        "Area": 1.033,
+        "Population_Density": 16168,
+        "Annual_Population_Change": -8.4
+    },
+    {
+        "Barangay": "Post Proper Northside",
+        "population": "57,940",
+        "zip_code": 1200,
+        "Area": 2.272,
+        "Population_Density": 25504,
+        "Annual_Population_Change": 16
+    },
+    {
+        "Barangay": "Post Proper Southside",
+        "population": "63,308",
+        "zip_code": 1200,
+        "Area": 0.7548,
+        "Population_Density": 83872,
+        "Annual_Population_Change": 4
+    },
+    {
+        "Barangay": "Rizal",
+        "population": "44,536",
+        "zip_code": 1208,
+        "Area": 0.632,
+        "Population_Density": 70472,
+        "Annual_Population_Change": 0.92
+    },
+    {
+        "Barangay": "San Antonio",
+        "population": "17,494",
+        "zip_code": 1203,
+        "Area": 0.9175,
+        "Population_Density": 19067,
+        "Annual_Population_Change": 0.81
+    },
+    {
+        "Barangay": "San Isidro",
+        "population": "6,098",
+        "zip_code": 1234,
+        "Area": 0.4727,
+        "Population_Density": 12900,
+        "Annual_Population_Change": -5.7
+    },
+    {
+        "Barangay": "San Lorenzo",
+        "population": "14,054",
+        "zip_code": 1223,
+        "Area": 1.709,
+        "Population_Density": 8225,
+        "Annual_Population_Change": 1.7
+    },
+    {
+        "Barangay": "Santa Cruz",
+        "population": "6,333",
+        "zip_code": 1205,
+        "Area": 0.4765,
+        "Population_Density": 13291,
+        "Annual_Population_Change": -2.7
+    },
+    {
+        "Barangay": "Singkamas",
+        "population": "7,218",
+        "zip_code": 1204,
+        "Area": 0.1338,
+        "Population_Density": 53926,
+        "Annual_Population_Change": -0.44
+    },
+    {
+        "Barangay": "South Cembo",
+        "population": "14,978",
+        "zip_code": 1214,
+        "Area": 0.2155,
+        "Population_Density": 69510,
+        "Annual_Population_Change": -0.17
+    },
+    {
+        "Barangay": "Tejeros",
+        "population": "15,122",
+        "zip_code": 1204,
+        "Area": 0.2848,
+        "Population_Density": 53097,
+        "Annual_Population_Change": 2.1
+    },
+    {
+        "Barangay": "Urdaneta",
+        "population": "4,563",
+        "zip_code": 1225,
+        "Area": 0.7392,
+        "Population_Density": 6173,
+        "Annual_Population_Change": 0.63
+    },
+    {
+        "Barangay": "Valenzuela",
+        "population": "5,370",
+        "zip_code": 1208,
+        "Area": 0.238,
+        "Population_Density": 22568,
+        "Annual_Population_Change": -3.3
+    },
+    {
+        "Barangay": "West Rembo",
+        "population": "29,649",
+        "zip_code": 1215,
+        "Area": 0.6114,
+        "Population_Density": 48492,
+        "Annual_Population_Change": -0.18
+    }
+]
