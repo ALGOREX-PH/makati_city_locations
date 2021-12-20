@@ -21,3 +21,6 @@ npm install -g makati_city_locations
 var barangays = require('makati_city_locations/Makati_City_Barangays');
 var streets = require('makati_city_locations/Makati_City_streets');
 ```
+# Check it out
+
+- https://www.npmjs.com/package/makati_city_locations
