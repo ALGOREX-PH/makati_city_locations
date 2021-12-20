@@ -10,13 +10,14 @@ This npm package contains all Barangay Details and Streets within Makati City
 
  # Installation
 
- ...
+```
 npm install -g makati_city_locations
- ...
+```
 
 
 # How to Use
-...
+
+```
 var barangays = require('makati_city_locations/Makati_City_Barangays');
 var streets = require('makati_city_locations/Makati_City_streets');
-...
+```
