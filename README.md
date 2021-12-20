@@ -8,14 +8,14 @@ This npm package contains all Barangay Details and Streets within Makati City
  - https://www.citypopulation.de/en/philippines/makati/
  - https://geographic.org/streetview/philippines/ncr/makati.html
 
- # Installation
+Installation
 
 ```
 npm install -g makati_city_locations
 ```
 
 
-# How to Use
+How to Use
 
 ```
 var barangays = require('makati_city_locations/Makati_City_Barangays');
